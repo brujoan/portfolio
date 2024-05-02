@@ -1,0 +1,75 @@
+body {
+    text-align:center;
+    font-family: joanet;
+    background-color: #eadbbd;
+}
+@font-face{
+    font-family: joanet;
+    src: url(Joanet-Regular.ttf);
+}
+
+.title{
+    font-size: 500%;
+    margin-top: 400px;
+    margin-bottom: 0px;
+}
+
+.index{
+    font-size: 200%;
+    color: #000;
+}
+.navbar{
+    margin-top: -5px;
+    margin-bottom: -100px;
+}
+a:link { text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+.yuste1{
+    width: 150px;
+    margin-top: 200px;
+    margin-left: -1500px;
+}
+.yuste2{
+    width: 150px;
+    margin-top: -400px;
+    margin-left: -1150px;
+}
+.yuste3{
+    width: 150px;
+    margin-top: -200px;
+    margin-left: -800px;
+}
+.yuste4{
+    width: 150px;
+    margin-left: -450px;
+    margin-top: -200px;
+
+}
+.pocabroma1{
+    width: 150px;
+    margin-top: 60px;
+    margin-left: -1500px;
+}
+.pocabroma2{
+    width: 150px;
+    margin-top: -400px;
+    margin-left: -1150px;
+}
+.pocabroma3{
+    width: 150px;
+    margin-top: -200px;
+    margin-left: -800px;
+}
+.pocabroma4{
+    width: 150px;
+    margin-left: -450px;
+    margin-top: -200px;
+
+}
+.pocabroma{
+    margin-left: 1700px;
+    margin-top: -100px;
+}

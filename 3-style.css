@@ -1,0 +1,39 @@
+body {
+    text-align:center;
+    font-family: joanet;
+    background-color: #eadbbd;
+}
+@font-face{
+    font-family: joanet;
+    src: url(Joanet-Regular.ttf);
+}
+.index{
+    font-size: 200%;
+    color: #000;
+}
+.navbar{
+    margin-top: -5px;
+}
+
+.title{
+    font-size: 500%;
+    margin-top: 400px;
+    margin-bottom: 0px;
+}
+
+a:link { text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+.tumor{
+    margin-top: -230px;
+    margin-left: -850px;
+}
+.killer{
+    margin-top: -230px;
+    margin-left: 850px;
+}
+.videos{
+    margin-top: 200px;
+}
